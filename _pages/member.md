@@ -123,7 +123,14 @@ redirect_from:
       <div class="member-interests">Research Field: Image Quality Assessment and Enhancement</div>
     </div>
   </div>
-  
+ <div class="member-box">
+    <img src="/images/yangmu.png" alt="Mu Yang" class="member-photo">
+    <div class="member-info">
+      <div class="member-name">Mu Yang<br>( 杨沐 )</div>
+      <div class="member-position">Postgraduate Student<br>Enrolled in 2022</div>
+      <div class="member-interests">Research Field: Medical Image Segmentation</div>
+    </div>
+  </div>
   <!-- New Postgraduate Students -->
   <div class="member-box">
     <img src="/images/liwentao.png" alt="Wentao Li" class="member-photo">
@@ -148,14 +155,6 @@ redirect_from:
       <div class="member-name">Wanqing Liu<br>( 刘莞晴 )</div>
       <div class="member-position">Postgraduate Student<br>Enrolled in 2023</div>
       <div class="member-interests">Research Field: Medical Image Enhancement</div>
-    </div>
-  </div>
-  <div class="member-box">
-    <img src="/images/yangmu.png" alt="Mu Yang" class="member-photo">
-    <div class="member-info">
-      <div class="member-name">Mu Yang<br>( 杨沐 )</div>
-      <div class="member-position">Postgraduate Student<br>Enrolled in 2023</div>
-      <div class="member-interests">Research Field: Medical Image Segmentation</div>
     </div>
   </div>
   <div class="member-box">
