@@ -20,7 +20,7 @@ redirect_from:
     font-size: 24px;
     font-weight: bold;
     margin: 20px auto;
-    width: 70%;
+    width: 90%;
     padding: 10px;
     border-bottom: 2px solid #ccc;
   }
