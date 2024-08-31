@@ -10,7 +10,6 @@ redirect_from:
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Research Group Members</title>
-
 <style>
   body {
     margin: 0;
@@ -30,10 +29,9 @@ redirect_from:
     align-items: center;
   }
   .advisor-photo {
-    width: 150px; /* 固定宽度 */
-    height: auto; /* 高度自适应 */
-    object-fit: contain; /* 保证图片完整地显示在容器内 */
-    border-radius: 50%; /* 如果需要圆形图片，则保留此设置 */
+    width: 150px; /* Fixed size for advisor photo */
+    height: 180px;
+    border-radius: 50%; /* Circular image */
     margin-right: 20px;
   }
   .advisor-info {
@@ -48,10 +46,9 @@ redirect_from:
     text-align: center;
   }
   .member-photo {
-    width: 150px; /* 固定宽度 */
-    height: auto; /* 高度自适应 */
-    object-fit: contain; /* 保证图片完整地显示在容器内 */
-    border-radius: 50%; /* 如果需要圆形图片，则保留此设置 */
+    width: 150px; /* Fixed size for member photo */
+    height: 180px;
+    border-radius: 50%; /* Circular image */
     margin: 10px auto 20px; /* Center the photo and add space below */
   }
   .member-info {
@@ -71,7 +68,6 @@ redirect_from:
     padding: 20px;
   }
 </style>
-
 </head>
 <body>
 
