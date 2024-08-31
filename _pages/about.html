@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>自动滚动图片轮播</title>
+<style>
+  .carousel {
+    overflow: hidden;
+    white-space: nowrap;
+    width: 600px; /* 轮播容器的宽度 */
+  }
+  .carousel img {
+    width: 600px; /* 图片的宽度，与容器宽度相同 */
+    display: inline-block;
+  }
+  .hidden {
+    display: none;
+  }
+</style>
+</head>
+<body>
+
+<div class="carousel">
+  <img src="image1.jpg" alt="Image 1">
+  <img src="image2.jpg" alt="Image 2">
+  <img src="image3.jpg" alt="Image 3">
+  <!-- 更多图片 -->
+</div>
+
+<script>
+  let index = 0;
+  const images = document.querySelectorAll('.carousel img');
+  const totalImages = images.length;
+
+  function nextImage() {
+    index = (index + 1) % totalImages;
+    images.forEach(img => img.classList.add('hidden'));
+    images[index].classList.remove('hidden');
+  }
+
+  setInterval(nextImage, 3000); // 每3秒切换一次图片
+</script>
+
+</body>
+</html>
