@@ -23,6 +23,7 @@ redirect_from:
     width: 90%;
     padding: 10px;
     border-bottom: 2px solid #ccc;
+    text-align:center; 
   }
   .advisor-container {
     width: 100%;
