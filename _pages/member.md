@@ -29,8 +29,9 @@ redirect_from:
     align-items: center;
   }
   .advisor-photo {
-    width: 150px; /* Fixed size for advisor photo */
-    height: 180px;
+    width: 100%; /* 使图片宽度填满容器 */
+    height: auto; /* 高度自动调整以保持长宽比 */
+    object-fit: cover; /* 保持图片的长宽比，可能会裁剪 */
     border-radius: 50%; /* Circular image */
     margin-right: 20px;
   }
@@ -46,8 +47,9 @@ redirect_from:
     text-align: center;
   }
   .member-photo {
-    width: 150px; /* Fixed size for member photo */
-    height: 150px;
+    width: 100%; /* 使图片宽度填满容器 */
+    height: auto; /* 高度自动调整以保持长宽比 */
+    object-fit: cover; /* 保持图片的长宽比，可能会裁剪 */
     border-radius: 50%; /* Circular image */
     margin: 10px auto 20px; /* Center the photo and add space below */
   }
