@@ -196,7 +196,7 @@ redirect_from:
   </div>
   </div>
   <!-- Add more members as needed -->
-</div>
+
 
 
 <div class="title">Visiting Student</div>
