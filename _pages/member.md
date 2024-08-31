@@ -78,9 +78,8 @@ redirect_from:
 </style>
 </head>
 <body>
-
+<!--
 <div class="advisor-container">
-  <!-- Principle Investigator -->
   <div class="advisor-box">
     <img src="/images/xiaoyue.png" alt="Dr. Guanghui Yue" class="advisor-photo">
     <div class="advisor-info">
@@ -90,6 +89,7 @@ redirect_from:
     </div>
   </div>
 </div>
+-->
 <div class="title">Phd Student</div>
 <div class="team-container">
   <!-- PhD Student -->
