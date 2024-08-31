@@ -15,8 +15,8 @@ redirect_from:
 <style>
   .carousel {
     position: relative;
-    width: 800px;
-    height: 600px;
+    width: 600px;
+    height: 400px;
     margin: auto;
     overflow: hidden;
   }
