@@ -16,42 +16,57 @@ redirect_from:
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
   }
-  .container {
-    width: 100%;
-    text-align: center;
-  }
-  .box {
-    width: 70%;
-    border: 1px solid #ccc;
-    padding: 20px;
-    margin: 20px auto;
-    display: flex;
-    align-items: center;
-  }
-  .photo {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    margin-right: 20px;
-  }
-  .info {
-    flex-grow: 1;
-  }
-  .member-box {
-    width: calc(33.33% - 20px);
-    border: 1px solid #ccc;
-    padding: 20px;
-    margin-bottom: 20px;
-    box-sizing: border-box;
-    text-align: center;
-  }
-  .title {
+   .title {
     font-size: 24px;
     font-weight: bold;
     margin: 20px auto;
     width: 70%;
     padding: 10px;
     border-bottom: 2px solid #ccc;
+  }
+  .advisor-container {
+    width: 100%;
+    text-align: center;
+  }
+  .advisor-box {
+    width: 70%; /* 70% width for the advisor */
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px auto; /* Center the advisor box */
+    display: flex;
+    align-items: center;
+  }
+  .advisor-photo {
+    width: 150px; /* Fixed size for advisor photo */
+    height: 180px;
+    border-radius: 50%; /* Circular image */
+    margin-right: 20px;
+  }
+  .advisor-info {
+    flex-grow: 1;
+  }
+  .member-box {
+    width: calc(33.33% - 20px); /* Adjust the width for 3 columns */
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px; /* Space below each member box */
+    box-sizing: border-box;
+    text-align: center;
+  }
+  .member-photo {
+    width: 150px; /* Fixed size for member photo */
+    height: 150px;
+    border-radius: 50%; /* Circular image */
+    margin: 10px auto 20px; /* Center the photo and add space below */
+  }
+  .member-info {
+    margin-top: 10px;
+  }
+  .member-name {
+    font-weight: bold;
+  }
+  .member-position, .member-interests {
+    margin-top: 5px;
   }
   .team-container {
     display: flex;
@@ -66,41 +81,32 @@ redirect_from:
 
 <div class="advisor-container">
   <!-- Principle Investigator -->
-  <div class="box">
-    <img src="/images/xiaoyue.png" alt="Dr. Guanghui Yue" class="photo">
-    <div class="info">
-      <div class="member-name">Dr. Guanghui Yue (岳广辉)</div>
+  <div class="advisor-box">
+    <img src="/images/xiaoyue.png" alt="Dr. Guanghui Yue" class="advisor-photo">
+    <div class="advisor-info">
+      <div class="member-name">Dr. Guanghui Yue ( 岳广辉 )</div>
       <div class="member-position">Associate Professor at Shenzhen University</div>
       <div class="member-interests">Research Field: Biomedical Image Processing</div>
     </div>
   </div>
 </div>
-
-<div class="title">博士研究生</div>
+<div class="title">Phd Student</div>
 <div class="team-container">
-  <!-- PhD Students -->
+  <!-- PhD Student -->
   <div class="member-box">
-    <img src="/images/yaoxizhang_jianshen.png" alt="Xizhang Yao" class="photo">
-    <div class="info">
-      <div class="member-name">Xizhang Yao (姚习章)</div>
-      <div class="member-position">PhD Student, Enrolled in 2024</div>
+    <img src="/images/yaoxizhang_jianshen.png" alt="Xizhang Yao" class="member-photo">
+    <div class="member-info">
+      <div class="member-name">Xizhang Yao <br>( 姚习章 )</div>
+      <div class="member-position">PhD Student<br>Enrolled in 2024</div>
       <div class="member-interests">Research Field: Image Quality Assessment</div>
     </div>
   </div>
-  <!-- Add more PhD students here -->
 </div>
 
-<div class="title">硕士研究生</div>
+<div class="title">Postgraduate Student</div>
 <div class="team-container">
-  <!-- Master Students -->
-    <div class="member-box">
-    <img src="/images/tansongbai.png" alt="Songbai Tan" class="member-photo">
-    <div class="member-info">
-      <div class="member-name">Songbai Tan<br>( 谭松柏 )</div>
-      <div class="member-position">Postgraduate Student<br>Enrolled in 2022</div>
-      <div class="member-interests">Research Field: Image Quality Assessment</div>
-    </div>
-  </div>
+  <!-- Postgraduate Students -->
+ 
   <div class="member-box">
     <img src="/images/zhanglixin.png" alt="Lixin Zhang" class="member-photo">
     <div class="member-info">
@@ -117,14 +123,7 @@ redirect_from:
       <div class="member-interests">Research Field: Image Quality Assessment and Enhancement</div>
     </div>
   </div>
-  <div class="member-box">
-    <img src="/images/songlongqi.png" alt="Longqi Song" class="member-photo">
-    <div class="member-info">
-      <div class="member-name">Longqi Song<br>( 宋龙琦 )</div>
-      <div class="member-position">Postgraduate Student<br>Enrolled in 2023</div>
-      <div class="member-interests">Research Field: Image Quality Assessment</div>
-    </div>
-  </div>
+  
   <!-- New Postgraduate Students -->
   <div class="member-box">
     <img src="/images/liwentao.png" alt="Wentao Li" class="member-photo">
@@ -183,13 +182,11 @@ redirect_from:
       <div class="member-interests">Research Field: Image Quality Assessment</div>
     </div>
   </div>
-  <!-- Add more Master students here -->
-</div>
-
-<div class="title">本科生</div>
+  </div>
+  
+<div class="title">Undergraduate Student</div>
 <div class="team-container">
-  <!-- Undergraduate Students -->
-   <div class="member-box">
+  <div class="member-box">
     <img src="/images/liyuanyan_1.png" alt="Yuanyan Li" class="member-photo">
     <div class="member-info">
       <div class="member-name">Yuanyan Li<br>( 李苑妍 )</div>
@@ -197,16 +194,30 @@ redirect_from:
       <div class="member-interests">Research Field: Medical Image Segmentation</div>
     </div>
   </div>
-  <!-- Add more Undergraduate students here -->
+  </div>
+  <!-- Add more members as needed -->
 </div>
 
-<div class="title">访问学生</div>
+
+<div class="title">Visiting Student</div>
 <div class="team-container">
-  <!-- Visiting Students -->
-  <div class="member-box">
-    <!-- Add Visiting students here -->
+ <div class="member-box">
+    <img src="/images/tansongbai.png" alt="Songbai Tan" class="member-photo">
+    <div class="member-info">
+      <div class="member-name">Songbai Tan<br>( 谭松柏 )</div>
+      <div class="member-position">Postgraduate Student<br>Enrolled in 2022</div>
+      <div class="member-interests">Research Field: Image Quality Assessment</div>
+    </div>
   </div>
-  <!-- Add more Visiting students here -->
+  <div class="member-box">
+    <img src="/images/songlongqi.png" alt="Longqi Song" class="member-photo">
+    <div class="member-info">
+      <div class="member-name">Longqi Song<br>( 宋龙琦 )</div>
+      <div class="member-position">Postgraduate Student<br>Enrolled in 2023</div>
+      <div class="member-interests">Research Field: Image Quality Assessment</div>
+    </div>
+  </div>
+  <!-- Add more members as needed -->
 </div>
 
 </body>
