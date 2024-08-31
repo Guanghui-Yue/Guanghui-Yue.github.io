@@ -93,8 +93,95 @@ redirect_from:
 <div class="title">硕士研究生</div>
 <div class="team-container">
   <!-- Master Students -->
+    <div class="member-box">
+    <img src="/images/tansongbai.png" alt="Songbai Tan" class="member-photo">
+    <div class="member-info">
+      <div class="member-name">Songbai Tan<br>( 谭松柏 )</div>
+      <div class="member-position">Postgraduate Student<br>Enrolled in 2022</div>
+      <div class="member-interests">Research Field: Image Quality Assessment</div>
+    </div>
+  </div>
   <div class="member-box">
-    <!-- Add Master students here -->
+    <img src="/images/zhanglixin.png" alt="Lixin Zhang" class="member-photo">
+    <div class="member-info">
+      <div class="member-name">Lixin Zhang<br>( 张俪馨 )</div>
+      <div class="member-position">Postgraduate Student<br>Enrolled in 2022</div>
+      <div class="member-interests">Research Field: Video Quality Assessment and Enhancement</div>
+    </div>
+  </div>
+  <div class="member-box">
+    <img src="/images/zhangshaoping.png" alt="Shaoping Zhang" class="member-photo">
+    <div class="member-info">
+      <div class="member-name">Shaoping Zhang<br>( 张绍萍 )</div>
+      <div class="member-position">Postgraduate Student<br>Enrolled in 2022</div>
+      <div class="member-interests">Research Field: Image Quality Assessment and Enhancement</div>
+    </div>
+  </div>
+  <div class="member-box">
+    <img src="/images/songlongqi.png" alt="Longqi Song" class="member-photo">
+    <div class="member-info">
+      <div class="member-name">Longqi Song<br>( 宋龙琦 )</div>
+      <div class="member-position">Postgraduate Student<br>Enrolled in 2023</div>
+      <div class="member-interests">Research Field: Image Quality Assessment</div>
+    </div>
+  </div>
+  <!-- New Postgraduate Students -->
+  <div class="member-box">
+    <img src="/images/liwentao.png" alt="Wentao Li" class="member-photo">
+    <div class="member-info">
+      <div class="member-name">Wentao Li<br>( 李文韬 )</div>
+      <div class="member-position">Postgraduate Student<br>Enrolled in 2023</div>
+      <div class="member-interests">Research Field: Image Fusion and Registration
+</div>
+    </div>
+  </div>
+  <div class="member-box">
+    <img src="/images/wushangjie.png" alt="Shangjie Wu" class="member-photo">
+    <div class="member-info">
+      <div class="member-name">Shangjie Wu<br>( 吴尚杰 )</div>
+      <div class="member-position">Postgraduate Student<br>Enrolled in 2023</div>
+      <div class="member-interests">Research Field: Camouflaged Object Detection, Medical Image Segmentation</div>
+    </div>
+  </div>
+   <div class="member-box">
+    <img src="/images/liuwanqing.png" alt="Wanqing Liu" class="member-photo">
+    <div class="member-info">
+      <div class="member-name">Wanqing Liu<br>( 刘莞晴 )</div>
+      <div class="member-position">Postgraduate Student<br>Enrolled in 2023</div>
+      <div class="member-interests">Research Field: Medical Image Enhancement</div>
+    </div>
+  </div>
+  <div class="member-box">
+    <img src="/images/yangmu.png" alt="Mu Yang" class="member-photo">
+    <div class="member-info">
+      <div class="member-name">Mu Yang<br>( 杨沐 )</div>
+      <div class="member-position">Postgraduate Student<br>Enrolled in 2023</div>
+      <div class="member-interests">Research Field: Medical Image Segmentation</div>
+    </div>
+  </div>
+  <div class="member-box">
+    <img src="/images/yumin.png" alt="Min Yu" class="member-photo">
+    <div class="member-info">
+      <div class="member-name">Min Yu<br>( 余敏 )</div>
+      <div class="member-position">Postgraduate Student<br>Enrolled in 2024</div>
+      <div class="member-interests">Research Field: Image Quality Assessment</div>
+    </div>
+  </div>
+  <div class="member-box">
+    <img src="/images/liuyuhao.png" alt="Yuhao Liu" class="member-photo">
+    <div class="member-info">
+      <div class="member-name">Yuhao Liu<br>( 刘宇豪 ）</div>
+      <div class="member-position">Postgraduate Student<br>Enrolled in 2024</div>
+      <div class="member-interests">Research Field: Medical Image Segmentation</div>
+    </div>
+  </div>
+   <div class="member-box">
+    <img src="/images/denglishan.png" alt="Lishan Deng" class="member-photo">
+    <div class="member-info">
+      <div class="member-name">Lishan Deng<br>( 邓丽珊 ）</div>
+      <div class="member-position">Postgraduate Student<br>Enrolled in 2024</div>
+      <div class="member-interests">Research Field: Image Quality Assessment</div>
+    </div>
   </div>
   <!-- Add more Master students here -->
 </div>
@@ -102,8 +189,13 @@ redirect_from:
 <div class="title">本科生</div>
 <div class="team-container">
   <!-- Undergraduate Students -->
-  <div class="member-box">
-    <!-- Add Undergraduate students here -->
+   <div class="member-box">
+    <img src="/images/liyuanyan_1.png" alt="Yuanyan Li" class="member-photo">
+    <div class="member-info">
+      <div class="member-name">Yuanyan Li<br>( 李苑妍 )</div>
+      <div class="member-position"> Undergraduate Student<br>Enrolled in 2021</div>
+      <div class="member-interests">Research Field: Medical Image Segmentation</div>
+    </div>
   </div>
   <!-- Add more Undergraduate students here -->
 </div>
