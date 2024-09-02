@@ -113,7 +113,7 @@ redirect_from:
     <div class="member-info">
       <div class="member-name">Lixin Zhang<br>( 张俪馨 )</div>
       <div class="member-position">Enrolled in 2022</div>
-      <div class="member-interests">Research Field: Video Quality Assessment and Enhancement</div>
+      <div class="member-interests">Research Field: <em>Video Quality Assessment and Enhancement</em></div>
     </div>
   </div>
   <div class="member-box">
@@ -121,7 +121,7 @@ redirect_from:
     <div class="member-info">
       <div class="member-name">Shaoping Zhang<br>( 张绍萍 )</div>
       <div class="member-position">Enrolled in 2022</div>
-      <div class="member-interests">Research Field: Image Quality Assessment and Enhancement</div>
+      <div class="member-interests">Research Field: <em>Image Quality Assessment and Enhancement</em></div>
     </div>
   </div>
  <div class="member-box">
@@ -129,7 +129,7 @@ redirect_from:
     <div class="member-info">
       <div class="member-name">Mu Yang<br>( 杨沐 )</div>
       <div class="member-position">Enrolled in 2022</div>
-      <div class="member-interests">Research Field: Medical Image Segmentation</div>
+      <div class="member-interests">Research Field: <em>Medical Image Segmentation</em></div>
     </div>
   </div>
   <!-- New Postgraduate Students -->
