@@ -99,7 +99,7 @@ redirect_from:
     <div class="member-info">
       <div class="member-name">Xizhang Yao <br>( 姚习章 )</div>
       <div class="member-position">Enrolled in 2024</div>
-      <div class="member-interests">Research Field:<br><em>Image Quality Assessment</em></div>
+      <div class="member-interests">Research Field: <em>Image Quality Assessment</em></div>
     </div>
   </div>
 </div>
@@ -113,7 +113,7 @@ redirect_from:
     <div class="member-info">
       <div class="member-name">Lixin Zhang<br>( 张俪馨 )</div>
       <div class="member-position">Enrolled in 2022</div>
-      <div class="member-interests">Research Field:<br><em>Video Quality Assessment and Enhancement</em></div>
+      <div class="member-interests">Research Field: <em>Video Quality Assessment and Enhancement</em></div>
     </div>
   </div>
   <div class="member-box">
@@ -121,7 +121,7 @@ redirect_from:
     <div class="member-info">
       <div class="member-name">Shaoping Zhang<br>( 张绍萍 )</div>
       <div class="member-position">Enrolled in 2022</div>
-      <div class="member-interests">Research Field:<br><em>Image Quality Assessment and Enhancement</em></div>
+      <div class="member-interests">Research Field: <em>Image Quality Assessment and Enhancement</em></div>
     </div>
   </div>
  <div class="member-box">
@@ -129,7 +129,7 @@ redirect_from:
     <div class="member-info">
       <div class="member-name">Mu Yang<br>( 杨沐 )</div>
       <div class="member-position">Enrolled in 2022</div>
-      <div class="member-interests">Research Field:<br><em>Medical Image Segmentation</em></div>
+      <div class="member-interests">Research Field: <em>Medical Image Segmentation</em></div>
     </div>
   </div>
   <!-- New Postgraduate Students -->
@@ -138,7 +138,7 @@ redirect_from:
     <div class="member-info">
       <div class="member-name">Wentao Li<br>( 李文韬 )</div>
       <div class="member-position">Enrolled in 2023</div>
-      <div class="member-interests">Research Field:<br><em>Image Fusion and Registration</em>
+      <div class="member-interests">Research Field: <em>Image Fusion and Registration</em>
 </div>
     </div>
   </div>
@@ -147,7 +147,7 @@ redirect_from:
     <div class="member-info">
       <div class="member-name">Shangjie Wu<br>( 吴尚杰 )</div>
       <div class="member-position">Enrolled in 2023</div>
-      <div class="member-interests">Research Field: Camouflaged Object Detection, Medical Image Segmentation</div>
+      <div class="member-interests">Research Field: <em>Camouflaged Object Detection, Medical Image Segmentation</em></div>
     </div>
   </div>
    <div class="member-box">
@@ -155,7 +155,7 @@ redirect_from:
     <div class="member-info">
       <div class="member-name">Wanqing Liu<br>( 刘莞晴 )</div>
       <div class="member-position">Enrolled in 2023</div>
-      <div class="member-interests">Research Field: Medical Image Enhancement</div>
+      <div class="member-interests">Research Field: <em>Medical Image Enhancement</em></div>
     </div>
   </div>
   <div class="member-box">
@@ -163,7 +163,7 @@ redirect_from:
     <div class="member-info">
       <div class="member-name">Min Yu<br>( 余敏 )</div>
       <div class="member-position">Enrolled in 2024</div>
-      <div class="member-interests">Research Field: Image Quality Assessment</div>
+      <div class="member-interests">Research Field: <em>Image Quality Assessment</em></div>
     </div>
   </div>
   <div class="member-box">
@@ -171,7 +171,7 @@ redirect_from:
     <div class="member-info">
       <div class="member-name">Yuhao Liu<br>( 刘宇豪 ）</div>
       <div class="member-position">Enrolled in 2024</div>
-      <div class="member-interests">Research Field: Medical Image Segmentation</div>
+      <div class="member-interests">Research Field: <em>Medical Image Segmentation</em></div>
     </div>
   </div>
    <div class="member-box">
@@ -179,7 +179,7 @@ redirect_from:
     <div class="member-info">
       <div class="member-name">Lishan Deng<br>( 邓丽珊 )</div>
       <div class="member-position">Enrolled in 2024</div>
-      <div class="member-interests">Research Field: Image Quality Assessment</div>
+      <div class="member-interests">Research Field: <em>Image Quality Assessment</em></div>
     </div>
   </div>
   </div>
@@ -191,7 +191,7 @@ redirect_from:
     <div class="member-info">
       <div class="member-name">Yuanyan Li<br>( 李苑妍 )</div>
       <div class="member-position">Enrolled in 2021</div>
-      <div class="member-interests">Research Field: Medical Image Segmentation</div>
+      <div class="member-interests">Research Field: <em>Medical Image Segmentation</em></div>
     </div>
   </div>
   </div>
@@ -206,7 +206,7 @@ redirect_from:
     <div class="member-info">
       <div class="member-name">Songbai Tan<br>( 谭松柏 )</div>
       <div class="member-position">Enrolled in 2022</div>
-      <div class="member-interests">Research Field: Image Quality Assessment</div>
+      <div class="member-interests">Research Field: <em>Image Quality Assessment</em></div>
     </div>
   </div>
   <div class="member-box">
@@ -214,7 +214,7 @@ redirect_from:
     <div class="member-info">
       <div class="member-name">Longqi Song<br>( 宋龙琦 )</div>
       <div class="member-position">Enrolled in 2023</div>
-      <div class="member-interests">Research Field: Image Quality Assessment</div>
+      <div class="member-interests">Research Field: <em>Image Quality Assessment</em></div>
     </div>
   </div>
   <!-- Add more members as needed -->
