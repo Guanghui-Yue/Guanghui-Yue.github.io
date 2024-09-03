@@ -5,14 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Image quality assessment
-1. [Toward Multi-Center Skin Lesion Classification Using Deep Neural Network with Adaptively Weighted Balance Loss](https://ieeexplore.ieee.org/abstract/document/9878129/)
-   - Authors:
-   - Journal:
+## Image Quality Assessment and Enchancement
+1. Yue G, Wei P, Zhou T, et al. Toward multicenter skin lesion classification using deep neural network with adaptively weighted balance loss[J]. IEEE Transactions on Medical Imaging, 2022, 42(1): 119-131.[Paper](https://ieeexplore.ieee.org/abstract/document/9878129/)
+     
+## Medical Image Classification
+
 
 ## Medical Image Segmentation
 
-## Image Enchancement
 
 ## Others
 
