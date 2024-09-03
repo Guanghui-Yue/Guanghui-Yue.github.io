@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# 1. Image Quality Assessment and Enchancement
+## 1. Image Quality Assessment and Enchancement
 1. Guanghui Yue, Chunping Hou, Ke Gu, Tianwei Zhou, Guangtao Zhai. Combining local and global measures for DIBR-synthesized image quality evaluation, <em>IEEE Transactions on Image Processing</em>, 2019, 28(4): 2075-2088. [Paper](https://ieeexplore.ieee.org/abstract/document/8491300/)
 2. Guanghui Yue, Jie Gao, Runmin Cong, Tianwei Zhou, Leida Li, Tianfu Wang. Deep Pyramid Network for Low-Light Endoscopic Image Enhancement, <em>IEEE Transactions on Circuits and Systems for Video Technology</em>, 2024, 34 (5): 3834 - 3845. [Paper](https://ieeexplore.ieee.org/abstract/document/10274690/)
 3. Guanghui Yue, Di Cheng, Tianwei Zhou, Jingwen Hou, Weide Liu, Long Xu, Tianfu Wang, Jun Cheng. Perceptual Quality Assessment of Enhanced Colonoscopy Images: A Benchmark Dataset and an Objective Method, <em>IEEE Transactions on Circuits and Systems for Video Technology</em>, 2023, 33(10): 5549 - 5561. [Paper](https://ieeexplore.ieee.org/abstract/document/10078370/)
@@ -26,7 +26,7 @@ author_profile: true
 18. Tianwei Zhou, Songbai Tan, Gang Li, Shishun Tian, Chang Tang, Zhihua Wang, Guanghui Yue<sup>*</sup> (Corresponding author). Retouched Face Image Quality Assessment Based on Differential Perception and Textual Prompt, <em>IEEE Transactions on Broadcasting</em>, 2024, accepted, in press, DOI: 10.1109/TBC.2024.3447454.
 
 
-# 2. Medical Image Classification
+## 2. Medical Image Classification
 1. Guanghui Yue, Peishan Wei, Tianwei Zhou, Qiuping Jiang, Weiqing Yan, Tianfu Wang. Toward Multi-Center Skin Lesion Classification Using Deep Neural Network with Adaptively Weighted Balance Loss, <em>IEEE Transactions on Medical Imaging</em>, 2023, 42(1): 119-131. [Paper](https://ieeexplore.ieee.org/abstract/document/9878129/)
 2. Guanghui Yue, Peishan Wei, Yun Liu, Yu Luo, Jingfeng Du, Tianfu Wang. Automated Endoscopic Image Classification via Deep Neural Network With Class Imbalance Loss, <em>IEEE Transactions on Instrumentation and Measurement</em>, 2023, 72: 1-11. [Paper](https://ieeexplore.ieee.org/abstract/document/10091194/) (ESI)
 3. Guanghui Yue<sup>#</sup>, Peishan Wei<sup>#</sup> (Equal contribution), Tianwei Zhou, Youyi Song, Cheng Zhao, Tianfu Wang, Baiying Lei. Specificity-aware Federated Learning with Dynamic Feature Fusion Network for Imbalanced Medical Image Classification, <em>IEEE Journal of Biomedical and Health Informatics</em>, 2023, accepted, in press, DOI: 10.1109/JBHI.2023. 3319516. [Paper](https://ieeexplore.ieee.org/abstract/document/10264099/)
@@ -34,7 +34,7 @@ author_profile: true
 5. Guanghui Yue, Yuan Li, Tianwei Zhou, Xiaoyan Zhou, Yun Liu, Tianfu Wang. Attention-Driven Cascaded Network for Diabetic Retinopathy Grading from Fundus Images, <em>Biomedical Signal Processing and Control</em>, 2023, 80: 104370. [Paper](https://www.sciencedirect.com/science/article/pii/S1746809422008242)
 
 
-# 3. Medical Image Segmentation
+## 3. Medical Image Segmentation
 1. Guanghui Yue, Houlu Xiao, Hai Xie, Tianwei Zhou, Wei Zhou, Weiqing Yan, Baoquan Zhao, Qiuping Jiang. Dual-Constraint Coarse-to-Fine Network for Camouflaged Object Detection, <em>IEEE Transactions on Circuits and Systems for Video Technology</em>, 2024, 34 (5): 3286 - 3298. [Paper](https://ieeexplore.ieee.org/abstract/document/10262011/)
 2. Guanghui Yue, Shangjie Wu, et al.. Progressive Region-to-Boundary Exploration Network for Camouflaged Object Detection, <em>IEEE Transactions on Multimedia</em>, 2024, accepted, in press. 
 3. Guanghui Yue, Houlu Xiao, et al.. Progressive Feature Enhancement Network for Automated Colorectal Polyp Segmentation, <em>IEEE Transactions on Automation Science and Engineering</em>, 2024, accepted, in press, DOI: 10.1109/TASE.2024.3430896. 
@@ -46,6 +46,6 @@ author_profile: true
 9. Guanghui Yue, Wanwan Han, Bin Jiang, Tianwei Zhou, Runmin Cong, Tianfu Wang. Boundary Constraint Network with Cross Layer Feature Integration for Polyp Segmentation, <em>IEEE Journal of Biomedical and Health Informatics</em>, 2022, 26(8): 4090 - 4099. [Paper](https://ieeexplore.ieee.org/abstract/document/9772424/)
 10. Guanghui Yue, Guibin Zhuo, Weiqing Yan, Tianwei Zhou, Chang Tang, Peng Yang, Tianfu Wang. Boundary Uncertainty Aware Network for Automated Polyp Segmentation, <em>Neural Networks</em>, 2024, 170: 390-404. [Paper](https://www.sciencedirect.com/science/article/pii/S0893608023006731)
 
-# 4. Others
+## 4. Others
 1. Weiqing Yan, Meiqi Gu, Jinlai Ren, Guanghui Yue<sup>*</sup> (Corresponding author), Zhaowei Liu, Jindong Xu. Collaborative Structure and Feature Learning for Multi-view Clustering, <em>Information Fusion</em>, 2023, 98: 101832. [Paper](https://www.sciencedirect.com/science/article/pii/S1566253523001483) (ESI)
 2. Weiqing Yan, Meiqi Gu, Jinlai Ren, Guanghui Yue<sup>*</sup> (Corresponding author), et al., FVIFormer: Flow-Guided Global-Local Aggregation Transformer Network for Video Inpainting, <em>IEEE Journal on Emerging and Selected Topics in Circuits and Systems</em>, 2024, 14(2): 235 - 244.
