@@ -36,8 +36,7 @@ author_profile: true
 2. Guanghui Yue, Peishan Wei, Tianwei Zhou, Qiuping Jiang, Weiqing Yan, Tianfu Wang. Toward Multi-Center Skin Lesion Classification Using Deep Neural Network with Adaptively Weighted Balance Loss, <em>IEEE Transactions on Medical Imaging</em>, 2023, 42(1): 119-131. [Paper](https://ieeexplore.ieee.org/abstract/document/9878129/)
 3. Guanghui Yue, Peishan Wei, Yun Liu, Yu Luo, Jingfeng Du, Tianfu Wang. Automated Endoscopic Image Classification via Deep Neural Network With Class Imbalance Loss, <em>IEEE Transactions on Instrumentation and Measurement</em>, 2023, 72: 1-11. [Paper](https://ieeexplore.ieee.org/abstract/document/10091194/) ( <span style="color:blue;">ESI</span> )
 4. Guanghui Yue<sup>#</sup>, Peishan Wei<sup>#</sup>, Tianwei Zhou, Youyi Song, Cheng Zhao, Tianfu Wang, Baiying Lei. Specificity-aware Federated Learning with Dynamic Feature Fusion Network for Imbalanced Medical Image Classification, <em>IEEE Journal of Biomedical and Health Informatics</em>, 2023, accepted, in press, DOI: 10.1109/JBHI.2023. 3319516. [Paper](https://ieeexplore.ieee.org/abstract/document/10264099/) ( <sup>#</sup>Equal contribution )
-5. 
-6. Guanghui Yue, Yuan Li, Tianwei Zhou, Xiaoyan Zhou, Yun Liu, Tianfu Wang. Attention-Driven Cascaded Network for Diabetic Retinopathy Grading from Fundus Images, <em>Biomedical Signal Processing and Control</em>, 2023, 80: 104370. [Paper](https://www.sciencedirect.com/science/article/pii/S1746809422008242)
+5. Guanghui Yue, Yuan Li, Tianwei Zhou, Xiaoyan Zhou, Yun Liu, Tianfu Wang. Attention-Driven Cascaded Network for Diabetic Retinopathy Grading from Fundus Images, <em>Biomedical Signal Processing and Control</em>, 2023, 80: 104370. [Paper](https://www.sciencedirect.com/science/article/pii/S1746809422008242)
 
 
 ## 3. Medical Image Segmentation
