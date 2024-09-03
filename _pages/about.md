@@ -123,11 +123,12 @@ Associate Professor Guanghui Yue's research Lab specializes in intelligent medic
 </div>
 
 ## 🔥News
+
 <div style="text-align:justify;">
-&#x1F44F;&#x1F44F;&#x1F44F;1. 2024-07-16: One Paper <a href="https://ieeexplore.ieee.org/Xplore/home.jsp"> entitled "Progressive Region-to-Boundary Exploration Network for Camouflaged Object Detection"</a> is accepted by IEEE Transactions on Multimedia !!!
+&#x1F44F;&#x1F44F;&#x1F44F;1. 2024-08-31: One Paper entitled <a href="https://ieeexplore.ieee.org/Xplore/home.jsp">"Unsupervised Low-Light Image Enhancement with Self-Paced Learning"</a> is accepted by IEEE Transactions on Multimedia !!!
 </div>
 <div style="text-align:justify;">
-  <span style="color: red;">&#x1F44F;&#x1F44F;&#x1F44F;1. 2024-08-22: One Paper <a href="https://www.example.com" style="color: red;">Progressive Region-to-Boundary Exploration Network for Camouflaged Object Detection</a> is accepted by IEEE Transactions on Multimedia !!!</span>
+&#x1F44F;&#x1F44F;&#x1F44F;2. 2024-07-16: One Paper entitled <a href="https://ieeexplore.ieee.org/Xplore/home.jsp">"Progressive Region-to-Boundary Exploration Network for Camouflaged Object Detection"</a> is accepted by IEEE Transactions on Multimedia !!!
 </div>
 ## 🤝Parters
 - Tianwei Zhou
