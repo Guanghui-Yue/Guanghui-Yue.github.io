@@ -122,7 +122,7 @@ redirect_from:
 Associate Professor Guanghui Yue's research Lab specializes in intelligent medical image processing, and includes students Xizhang Yao and Songbai Tan.
 </div>
 
-## News
+## 🔥🔥🔥News
 <div style="text-align:justify;">
 &#x1F44F;&#x1F44F;&#x1F44F;One Paper <a href="https://www.example.com">*******</a> is accepted by IEEE Transactions on Multimedia !!!
 </div>
