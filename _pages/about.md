@@ -127,7 +127,7 @@ Associate Professor Guanghui Yue's research Lab specializes in intelligent medic
 &#x1F44F;&#x1F44F;&#x1F44F;One Paper <a href="https://www.example.com">*******</a> is accepted by IEEE Transactions on Multimedia !!!
 </div>
 
-## Parters
+## 🤝🤝🤝Parters
 - Tianwei Zhou
 - Wei Zhou
 
