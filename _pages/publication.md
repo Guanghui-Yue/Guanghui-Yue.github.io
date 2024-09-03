@@ -4,7 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+<style>
+.sup {
+    vertical-align: super;
+    font-size: smaller;
+}
+</style>
+H<sup class="sup">2</sup>O and X<sup class="sup">2</sup>O
 # 1. Image Quality Assessment and Enchancement
 1. Guanghui Yue, Chunping Hou, Ke Gu, Tianwei Zhou, Guangtao Zhai. Combining local and global measures for DIBR-synthesized image quality evaluation, <em>IEEE Transactions on Image Processing</em>, 2019, 28(4): 2075-2088. [Paper](https://ieeexplore.ieee.org/abstract/document/8491300/)
 2. Guanghui Yue, Jie Gao, Runmin Cong, Tianwei Zhou, Leida Li, Tianfu Wang. Deep Pyramid Network for Low-Light Endoscopic Image Enhancement, <em>IEEE Transactions on Circuits and Systems for Video Technology</em>, 2024, 34 (5): 3834 - 3845. [Paper](https://ieeexplore.ieee.org/abstract/document/10274690/)
@@ -30,7 +36,7 @@ author_profile: true
 1. Guanghui Yue, Peishan Wei, Tianwei Zhou, Qiuping Jiang, Weiqing Yan, Tianfu Wang. Toward Multi-Center Skin Lesion Classification Using Deep Neural Network with Adaptively Weighted Balance Loss, <em>IEEE Transactions on Medical Imaging</em>, 2023, 42(1): 119-131. [Paper](https://ieeexplore.ieee.org/abstract/document/9878129/)
 2. Guanghui Yue, Peishan Wei, Yun Liu, Yu Luo, Jingfeng Du, Tianfu Wang. Automated Endoscopic Image Classification via Deep Neural Network With Class Imbalance Loss, <em>IEEE Transactions on Instrumentation and Measurement</em>, 2023, 72: 1-11. [Paper](https://ieeexplore.ieee.org/abstract/document/10091194/) (ESI)
 3. Guanghui Yue, Peishan Wei, Tianwei Zhou, Youyi Song, Cheng Zhao, Tianfu Wang, Baiying Lei. Specificity-aware Federated Learning with Dynamic Feature Fusion Network for Imbalanced Medical Image Classification, <em>IEEE Journal of Biomedical and Health Informatics</em>, 2023, accepted, in press, DOI: 10.1109/JBHI.2023. 3319516. [Paper](https://ieeexplore.ieee.org/abstract/document/10264099/)
-4. Wenchao Jiang, Kang Chen, Zhipeng Liang, Tianchun Luo, Guanghui Yue<sup>*</sup>, Zhiming Zhao, Wei Song, Ling Zhao, Jianxuan Wen. HT-RCM: Hashimoto’s Thyroiditis Ultrasound Image Classification Model based on Res-FCT and Res-CAM, <em>IEEE Journal of Biomedical and Health Informatics</em>, 2024, 28 (2): 941 - 951. [Paper](https://ieeexplore.ieee.org/abstract/document/10314736/)
+4. Wenchao Jiang<sup>*</sup>, Kang Chen, Zhipeng Liang, Tianchun Luo, Guanghui Yue<sup>*</sup>, Zhiming Zhao, Wei Song, Ling Zhao, Jianxuan Wen. HT-RCM: Hashimoto’s Thyroiditis Ultrasound Image Classification Model based on Res-FCT and Res-CAM, <em>IEEE Journal of Biomedical and Health Informatics</em>, 2024, 28 (2): 941 - 951. [Paper](https://ieeexplore.ieee.org/abstract/document/10314736/)
 5. Guanghui Yue, Yuan Li, Tianwei Zhou, Xiaoyan Zhou, Yun Liu, Tianfu Wang. Attention-Driven Cascaded Network for Diabetic Retinopathy Grading from Fundus Images, <em>Biomedical Signal Processing and Control</em>, 2023, 80: 104370. [Paper](https://www.sciencedirect.com/science/article/pii/S1746809422008242)
 
 
