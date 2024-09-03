@@ -48,4 +48,4 @@ author_profile: true
 
 ## 4. Others
 1. Weiqing Yan, Meiqi Gu, Jinlai Ren, Guanghui Yue<sup>*</sup> (Corresponding author), Zhaowei Liu, Jindong Xu. Collaborative Structure and Feature Learning for Multi-view Clustering, <em>Information Fusion</em>(<span style="color:blue;">ESI</span>), 2023, 98: 101832. [Paper](https://www.sciencedirect.com/science/article/pii/S1566253523001483) (ESI)
-2. Weiqing Yan, Meiqi Gu, Jinlai Ren, Guanghui Yue<sup>*</sup> (Corresponding author), et al., FVIFormer: Flow-Guided Global-Local Aggregation Transformer Network for Video Inpainting, <em>IEEE Journal on Emerging and Selected Topics in Circuits and Systems</em>, 2024, 14(2): 235 - 244.
+2. Weiqing Yan, Meiqi Gu, Jinlai Ren, Guanghui Yue<sup>*</sup> (Corresponding author), Wei Zhou, Hantao Liu. FVIFormer: Flow-Guided Global-Local Aggregation Transformer Network for Video Inpainting, <em>IEEE Journal on Emerging and Selected Topics in Circuits and Systems</em>, 2024, 14(2): 235 - 244. [Paper](https://ieeexplore.ieee.org/abstract/document/10508737/)
