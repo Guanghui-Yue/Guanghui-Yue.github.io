@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "The Publications of The Lab"
+title: "The Publications of the Lab"
 permalink: /publications/
 author_profile: true
 ---
