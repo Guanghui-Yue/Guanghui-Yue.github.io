@@ -71,7 +71,7 @@ redirect_from:
   <img src="/images/YanzuWu.png" alt="Image 1" class="active">
   <img src="/images/TingfengXie.png" alt="Image 2">
   <img src="/images/TianleGu.png" alt="Image 3">
-  <img src="/images/xiaoyue.png" alt="Image 4">
+  <img src="/images/xiaoyue_2.png" alt="Image 4">
   <!-- 更多图片 -->
   <div class="carousel-indicators">
     <span class="active" onclick="moveToSlide(0)"></span>
