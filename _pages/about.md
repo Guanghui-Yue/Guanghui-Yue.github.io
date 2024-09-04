@@ -120,6 +120,8 @@ redirect_from:
 ## About Our Lab
 <div style="text-align:justify;">
 Welcome to the Guanghui Yue Laboratory, where we focus on Image Quality Assessment and Enhancement, Medical Image Classification, and Medical Image Segmentation. Led by Professor Yue, our team is committed to driving innovation in biomedical imaging. We invite students and researchers to join us in this exciting field and contribute to the advancement of healthcare.
+<br>
+Dr. Guanghui Yue, Ph.D. in Engineering (awarded by Tianjin University, supervised by Professor Chunping Hou), Visiting Scholar at Nanyang Technological University, Singapore (mentored by Honorary Fellow of the Singapore Academy of Engineering Technology, IEEE Fellow, Prof. Weisi Lin). He is a Distinguished Researcher, Tenured Associate Professor, Master's and Ph.D. Supervisor, and Collaborating Supervisor for Postdoctoral Researchers at the School of Medicine, Shenzhen University. He is also a high-level overseas talent in Shenzhen, a member of the IEEE, and has been leading more than 10 scientific research projects, including the National Natural Science Foundation of China's general and youth projects, the Guangdong Province Basic and Applied Basic Research Foundation's general project, and the Shenzhen Excellent Scientific and Technological Innovation Talent Training Project (talent project). He has received the first prize of Tianjin Science and Technology Progress Award and the first prize of Henan Science and Technology Progress Award. His main research directions include three-dimensional content processing, image/video quality evaluation and optimization, medical image analysis, machine learning and its applications, etc. To date, he has published more than 70 papers in journals and conferences (cited over 2100 times on Google Scholar, H-index 28), including 36 SCI journal papers as the first author (including 22 long papers in IEEE Transactions, 1 long paper in ACM Transactions), and 12 SCI papers as the corresponding/co-corresponding author (including 7 long papers in IEEE Transactions), and has been granted 16 national invention patents. He serves as a member of the Digital Healthcare and Medical Informatics Branch of the Chinese Society of Biomedical Engineering, an academic committee member of the Artificial Intelligence Branch of Guangdong Medical Association, a member of the Youth Working Committee of the Chinese Automation Society, and a member of the Medical Image Computing Youth Seminar. He has been a reviewer for more than 20 internationally renowned journals such as IEEE TIP/TMI/TMM/TCSVT/TNNLS/TII/TCYB/TIE/TIM/JBHI/TNSRE/SPL, IET IP/EL, Elsevier SP/DSP/NEUCOM/JVCI/SPIC, etc. His main courses include "Machine Learning and Python," "Advanced Mathematics (Medical)," "Introduction to Biomedical Engineering," and "Medical Image Processing and Applications."
 </div>
 
 ## 🔥News
@@ -180,7 +182,7 @@ Many people use a git client to create files on their local computer and then pu
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
--->
+
 ## For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
