@@ -125,9 +125,8 @@ Welcome to the Guanghui Yue Laboratory, where we focus on Image Quality Assessme
 ## 🔥News
 
 <div style="text-align:justify;">
-&#x1F44F;&#x1F44F;1. 2024-08-31: One Paper entitled <a href="https://ieeexplore.ieee.org/Xplore/home.jsp">"Unsupervised Low-Light Image Enhancement with Self-Paced Learning"</a> is accepted by <em>IEEE Transactions on Multimedia</em>.
-<br>
-&#x1F44F;&#x1F44F;2. 2024-07-16: One Paper entitled <a href="https://ieeexplore.ieee.org/Xplore/home.jsp">"Progressive Region-to-Boundary Exploration Network for Camouflaged Object Detection"</a> is accepted by <em>IEEE Transactions on Multimedia</em>.
+<o>&#x1F44F;&#x1F44F;2024-08-31: One Paper entitled <a href="https://ieeexplore.ieee.org/Xplore/home.jsp">"Unsupervised Low-Light Image Enhancement with Self-Paced Learning"</a> is accepted by <em>IEEE Transactions on Multimedia</em>.</o>
+<o>&#x1F44F;&#x1F44F;2. 2024-07-16: One Paper entitled <a href="https://ieeexplore.ieee.org/Xplore/home.jsp">"Progressive Region-to-Boundary Exploration Network for Camouflaged Object Detection"</a> is accepted by <em>IEEE Transactions on Multimedia</em>.</o>
 </div>
 
 ## 🤝Parters
