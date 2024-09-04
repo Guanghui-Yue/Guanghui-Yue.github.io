@@ -68,10 +68,10 @@ redirect_from:
 <body>
 
 <div class="carousel">
-  <img src="/images/YanzuWu.png" alt="Image 1" class="active">
-  <img src="/images/TingfengXie.png" alt="Image 2">
-  <img src="/images/TianleGu.png" alt="Image 3">
-  <img src="/images/xiaoyue.png" alt="Image 4">
+  <img src="/images/jiti.png" alt="Image 1" class="active">
+  <img src="/images/hainan_tansongbai_1.png" alt="Image 2">
+  <img src="/images/hainan_tansongbai_2.png" alt="Image 3">
+  <img src="/images/hainan_tansongbai_3.png" alt="Image 4">
   <!-- 更多图片 -->
   <div class="carousel-indicators">
     <span class="active" onclick="moveToSlide(0)"></span>
