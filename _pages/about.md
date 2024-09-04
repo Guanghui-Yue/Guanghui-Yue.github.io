@@ -119,7 +119,11 @@ redirect_from:
 
 ## About Our Lab
 <div style="text-align:justify;">
-Associate Professor Guanghui Yue's research Lab specializes in intelligent medical image processing, and includes students Xizhang Yao and Songbai Tan.
+Welcome to the Guanghui Yue Laboratory, a hub of innovation in biomedical imaging. Under the leadership of Professor Yue, we pursue research across three key areas: Image Quality Assessment and Enhancement, Medical Image Classification, and Medical Image Segmentation. Our lab is dedicated to the development of cutting-edge imaging techniques that bridge the gap between research and clinical practice.
+
+At the core of our mission is a commitment to fostering an environment of creativity and collaboration. We extend a warm invitation to students, researchers, and professionals who share our passion for advancing medical imaging technologies. Together, we aim to make significant contributions to the field and improve healthcare outcomes.
+
+Join us in shaping the future of biomedical imaging.
 </div>
 
 ## 🔥News
