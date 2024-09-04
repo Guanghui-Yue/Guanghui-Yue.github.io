@@ -219,6 +219,29 @@ redirect_from:
   </div>
   <!-- Add more members as needed -->
 </div>
+<!--
+<div class="title">Graduated Student</div>
+<div class="team-container">
+ <div class="member-box">
+    <img src="/images/weipeishan.png" alt="Peishan Wei" class="member-photo">
+    <div class="member-info">
+      <div class="member-name">Peishan Wei<br>( 魏佩珊 )</div>
+      <div class="member-position">Enrolled in 2021</div>
+      <div class="member-interests">Interests: <em>Image Quality Assessment</em></div>
+    </div>
+  </div>
+<div class="member-box">
+    <img src="/images/weipeishan.png" alt="Songbai Tan" class="member-photo">
+    <div class="member-info">
+      <div class="member-name">Peishan Wei<br>( 魏佩珊 )</div>
+      <div class="member-position">Enrolled in 2021</div>
+      <div class="member-interests">Interests: <em>Image Quality Assessment</em></div>
+    </div>
+  </div>
+
+  <!-- Add more members as needed -->
+
+  -->
 
 </body>
 </html>
