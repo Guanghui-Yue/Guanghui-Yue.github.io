@@ -119,11 +119,7 @@ redirect_from:
 
 ## About Our Lab
 <div style="text-align:justify;">
-Welcome to the Guanghui Yue Laboratory, a hub of innovation in biomedical imaging. Under the leadership of Professor Yue, we pursue research across three key areas: Image Quality Assessment and Enhancement, Medical Image Classification, and Medical Image Segmentation. Our lab is dedicated to the development of cutting-edge imaging techniques that bridge the gap between research and clinical practice.
-
-At the core of our mission is a commitment to fostering an environment of creativity and collaboration. We extend a warm invitation to students, researchers, and professionals who share our passion for advancing medical imaging technologies. Together, we aim to make significant contributions to the field and improve healthcare outcomes.
-
-Join us in shaping the future of biomedical imaging.
+Welcome to the Guanghui Yue Laboratory, where we focus on Image Quality Assessment and Enhancement, Medical Image Classification, and Medical Image Segmentation. Led by Professor Yue, our team is committed to driving innovation in biomedical imaging. We invite students and researchers to join us in this exciting field and contribute to the advancement of healthcare.
 </div>
 
 ## 🔥News
