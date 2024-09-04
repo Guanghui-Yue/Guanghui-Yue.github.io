@@ -6,7 +6,7 @@ redirect_from:
   - 
 ---
 
-## 2021 graduate
+## 2024 graduate
 <img src='/images/2021graduate.png'>
 
 <!--
