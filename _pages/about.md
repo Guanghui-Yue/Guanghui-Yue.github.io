@@ -130,8 +130,8 @@ Associate Professor Guanghui Yue's research Lab specializes in intelligent medic
 &#x1F44F;&#x1F44F;2. 2024-07-16: One Paper entitled <a href="https://ieeexplore.ieee.org/Xplore/home.jsp">"Progressive Region-to-Boundary Exploration Network for Camouflaged Object Detection"</a> is accepted by IEEE Transactions on Multimedia !!!
 </div>
 ## 🤝Parters
-- (Tianwei Zhou)[https://cm.szu.edu.cn/Faculty/Management_Science/ZHOU_Tianwei.htm]
-- (Wei Zhou)[https://weizhou-geek.github.io/]
+- [Tianwei Zhou](https://cm.szu.edu.cn/Faculty/Management_Science/ZHOU_Tianwei.htm)
+- [Wei Zhou](https://weizhou-geek.github.io)
 
 
 <!--
