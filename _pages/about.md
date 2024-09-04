@@ -117,7 +117,7 @@ redirect_from:
 </body>
 </html>
 
-## About Our Lab
+## 😊About Our Lab
 <div style="text-align:justify;">
 Welcome to the Guanghui Yue Laboratory, where we focus on Image Quality Assessment and Enhancement, Medical Image Classification, and Medical Image Segmentation. Led by Professor Yue, our team is committed to driving innovation in biomedical imaging. We invite students and researchers to join us in this exciting field and contribute to the advancement of healthcare.
 <br> 
@@ -138,6 +138,6 @@ Dr. Guanghui Yue, Ph.D. in Engineering (Tianjin University, supervised by Prof. 
 - [Wei Zhou](https://weizhou-geek.github.io)
 
 
-## For more info
+## 🙋For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
