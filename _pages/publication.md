@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 1. Image Quality Assessment and Enchancement
+## 1. Image Quality Assessment and Enhancement
 1. Guanghui Yue, Chunping Hou, Ke Gu, Tianwei Zhou, Guangtao Zhai. Combining local and global measures for DIBR-synthesized image quality evaluation. <em>IEEE Transactions on Image Processing</em>, 2019, 28(4): 2075-2088. [Paper](https://ieeexplore.ieee.org/abstract/document/8491300/)
 2. Guanghui Yue, Jie Gao, Runmin Cong, Tianwei Zhou, Leida Li, Tianfu Wang. Deep Pyramid Network for Low-Light Endoscopic Image Enhancement. <em>IEEE Transactions on Circuits and Systems for Video Technology</em>, 2024, 34 (5): 3834 - 3845. [Paper](https://ieeexplore.ieee.org/abstract/document/10274690/)
 3. Guanghui Yue, Honglv Wu, Qiuping Jiang, Tianwei, Weiqing Yan, Tianfu Wang. Perceptual Quality Assessment of Retouched Face Images. <em>IEEE Transactions on Multimedia</em>, 2024, 26: 5741 – 5752. [Paper](https://ieeexplore.ieee.org/abstract/document/10337739/)
