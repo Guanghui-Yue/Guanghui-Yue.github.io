@@ -95,7 +95,7 @@ redirect_from:
 <div class="team-container">
   <!-- PhD Student -->
   <div class="member-box">
-    <img src="/images/yaoxizhang_jianshen.png" alt="Xizhang Yao" class="member-photo">
+    <img src="/images/yaoxizhang_sushe.png" alt="Xizhang Yao" class="member-photo">
     <div class="member-info">
       <div class="member-name">Xizhang Yao <br>( 姚习章 )</div>
       <div class="member-position">Enrolled in 2024</div>
