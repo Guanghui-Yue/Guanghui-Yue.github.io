@@ -55,8 +55,8 @@ redirect_from:
     text-align: center;
   }
   .member-photo {
-    width: 400px; /* Fixed size for member photo */
-    height: 300px;
+    width: 180px; /* Fixed size for member photo */
+    height: 150px;
     border-radius: 50%; /* Circular image */
     margin: 10px auto 20px; /* Center the photo and add space below */
   }
