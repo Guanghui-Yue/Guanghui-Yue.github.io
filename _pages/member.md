@@ -38,8 +38,8 @@ redirect_from:
     align-items: center;
   }
   .advisor-photo {
-    width: 150px; /* Fixed size for advisor photo */
-    height: 180px;
+    width: 180px; /* Fixed size for advisor photo */
+    height: 150px;
     border-radius: 50%; /* Circular image */
     margin-right: 20px;
   }
