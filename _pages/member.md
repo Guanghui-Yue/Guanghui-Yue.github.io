@@ -182,7 +182,24 @@ redirect_from:
       <div class="member-interests">Interests: <em>Image Quality Assessment</em></div>
     </div>
   </div>
+  <div class="member-box">
+    <img src="/images/chengbingbing.png" alt="Bingbing Cheng" class="member-photo">
+    <div class="member-info">
+      <div class="member-name">Bingbing Cheng<br>( 程冰冰 )</div>
+      <div class="member-position">Enrolled in 2024</div>
+      <div class="member-interests">Interests: <em>Medical Image Segmentation</em></div>
+    </div>
   </div>
+  <div class="member-box">
+    <img src="/images/mengxiangfei.png" alt="Xiangfei Meng" class="member-photo">
+    <div class="member-info">
+      <div class="member-name">Xiangfei Meng<br>( 孟祥菲 )</div>
+      <div class="member-position">Enrolled in 2024</div>
+      <div class="member-interests">Interests: <em>Medical Image Segmentation</em></div>
+    </div>
+  </div>
+  
+</div>
   
 <div class="title">Undergraduate Student</div>
 <div class="team-container">
