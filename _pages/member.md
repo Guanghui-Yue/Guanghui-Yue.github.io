@@ -234,6 +234,14 @@ redirect_from:
       <div class="member-interests">Interests: <em>Image Quality Assessment</em></div>
     </div>
   </div>
+  <div class="member-box">
+    <img src="/images/fengyuhang.png" alt="Yuhang Feng" class="member-photo">
+    <div class="member-info">
+      <div class="member-name">Yuhang Feng<br>( 丰于杭 )</div>
+      <div class="member-position">Enrolled in 2024</div>
+      <div class="member-interests">Interests: <em>Image Quality Assessment</em></div>
+    </div>
+  </div>
   <!-- Add more members as needed -->
 </div>
 <!--
